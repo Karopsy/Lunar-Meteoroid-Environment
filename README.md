@@ -8,4 +8,6 @@ Frequency distribution in units of km^-2*h^-1 is used in order to give a general
 The secondary ejecta behavior is modeled using cratering dynamics and well-known power laws scaling from Housen and Holsapple mainly.
 Ballistic equations that take into account the sphericity of the Moon are leveraged to compute the range and max altitude of the ejecta. 
 
+The target material is the lunar regolith. If studying basaltic surfaces, please update the physical properties accordingly. 
+
 If you have any questions/remarks, please reach out, I would be happy to answer you! 
